@@ -18,14 +18,6 @@ Aplikasi dashboard desktop berbasis PySide6 untuk memantau nilai mahasiswa per j
 - Tabel lengkap dengan kolom Grade (A–E) dan warna baris otomatis
 - Chart rata-rata nilai per mata kuliah
 
-## Struktur Project
-T7-week12/
-├── main.py
-├── dashboard_window.py
-├── chart_widget.py
-├── data_loader.py
-└── data/
-└── nilai_mahasiswa.csv
 
 ## Library
 
